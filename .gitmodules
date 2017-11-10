@@ -1,0 +1,3 @@
+[submodule "Assets/stomt"]
+	path = Assets/stomt
+	url = git@github.com:stomt/stomt-unity-sdk.git
